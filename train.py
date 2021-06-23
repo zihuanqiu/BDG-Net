@@ -12,15 +12,13 @@ from pytorch_lightning.callbacks import ModelCheckpoint, LearningRateMonitor
 from utils import dataset
 from BDM_Net import BDM_Net
 
-gpu_list = [1]
+gpu_list = [0]
 gpu_list_str = ','.join(map(str, gpu_list))
 os.environ.setdefault("CUDA_VISIBLE_DEVICES", gpu_list_str)
 
 
-parser = argparse.ArgumentParser(description='Semantic Segmentation')
+parser = argparse.ArgumentParser(description='BDM-Net')
 parser.add_argument('--sigma', '-s', type=float, default=5)
-parser.add_argument('--encoder_index', '-e', type=int, default=3)
-
 args = parser.parse_args()
 
 def _init_fn(worker_id, seed=42):
