@@ -1,5 +1,5 @@
-# BDM-Net
-This is the offical implementation of BDM-Net
+# BDG-Net
+This is the offical implementation of BDG-Net
 
 ## 1. Overall Architecture
 
