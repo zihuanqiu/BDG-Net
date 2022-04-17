@@ -10,6 +10,11 @@ This is the offical implementation of BDG-Net
     </em>
 </p>
 
+<p align="center">
+    <img src="./table.png"/> <br />
+    <em> 
+</p>
+
 
 ## 2. Train/Test/Evaluate
 
