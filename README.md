@@ -1,7 +1,4 @@
-# BDG-Net
-This is the offical implementation of BDG-Net
-
-BDG-Net: Boundary Distribution Guided Network for Accurate Polyp Segmentation
+# BDG-Net: Boundary Distribution Guided Network for Accurate Polyp Segmentation
 
 ## 1. Overall Architecture
 
@@ -53,3 +50,19 @@ The evaluation matlab code can be found in [PraNet](https://github.com/DengPingF
 ## 3. Citation
 
 Please cite our paper if you find the work useful:
+    
+@inproceedings{10.1117/12.2606785,
+	author = {Zihuan Qiu and Zhichuan Wang and Miaomiao Zhang and Ziyong Xu and Jie Fan and Linfeng Xu},
+	booktitle = {Medical Imaging 2022: Image Processing},
+	doi = {10.1117/12.2606785},
+	editor = {Olivier Colliot and Ivana I{\v s}gum},
+	keywords = {Polyp segmentation, Colorectal cancer, Colonoscopy, Deep learning},
+	organization = {International Society for Optics and Photonics},
+	pages = {792 -- 799},
+	publisher = {SPIE},
+	title = {{BDG-Net: boundary distribution guided network for accurate polyp segmentation}},
+	url = {https://doi.org/10.1117/12.2606785},
+	volume = {12032},
+	year = {2022},
+	Bdsk-Url-1 = {https://doi.org/10.1117/12.2606785}}
+
