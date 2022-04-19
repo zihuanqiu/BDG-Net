@@ -7,11 +7,7 @@
     <em> 
     Figure 1: Overall architecture of BDG-Net.
     </em>
-</p>
-
-<p align="center">
     <img src="./table.png"/> <br />
-    <em> 
 </p>
 
 
@@ -65,4 +61,3 @@ Please cite our paper if you find the work useful:
 	volume = {12032},
 	year = {2022},
 	Bdsk-Url-1 = {https://doi.org/10.1117/12.2606785}}
-
