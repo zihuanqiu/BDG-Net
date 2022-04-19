@@ -1,6 +1,8 @@
 # BDG-Net
 This is the offical implementation of BDG-Net
 
+BDG-Net: Boundary Distribution Guided Network for Accurate Polyp Segmentation
+
 ## 1. Overall Architecture
 
 <p align="center">
